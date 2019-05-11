@@ -1,0 +1,27 @@
+<package>
+	<id>com.navanchauhan.shittytheme</id>
+	<name>shittyTheme</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>shittyTheme is the best worst theme you will ever find. With 4 different modes to try out!.</shortDescription>
+	<descriptionlist>
+		<description>I'm always taking icon requests! You can email me @ navanchauhan@gmail.com</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Showcase</description>
+			<image>s1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>v1 released!</change>
+	</changelog>
+	<links>
+	</links>
+</package>

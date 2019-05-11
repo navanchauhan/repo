@@ -2,8 +2,12 @@
     <footerlinks>
         <link>
             <name>Follow me on Twitter</name>
-            <url>https://twitter.com/CarsonKelley11</url>
+            <url>https://twitter.com/NavanChauhan</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
+	<link>
+	    <name>Want to have your own repo?</name>
+	    <url>https://github.com/sukarodo/sidia</url>
+	    <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
     </footerlinks>
 </repo>
