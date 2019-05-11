@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>StruglingDoge Repo</title>
+  <title>Navan's Repo</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -9,65 +9,63 @@
 </head>
 
 <style>
-html {
-    height: 100%;
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+*{
+  font-family: 'Montserrat', sans-serif;
 }
 
-body {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
-background: #a90329; /* Old browsers */
-background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
-height: 100%;
-    margin: 0;
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    color: white;
+.PageGradient {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(#450863, #3b3daf);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-.container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    text-align: center;
+.MainText{
+  margin-top: 5%;
+  font-size: 5em;
+  color: #ffffff;
 }
 
-.obsolete_cydia {
-    position: absolute;
-    top: 97%;
-    left: 50%;
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    text-align: center;
-    opacity: 0.5;
+button {
+  font-size: 2em;
+  padding: 14px 28px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 10px;
 }
+
+.Cydia{
+  margin-top:5%;
+  margin-left:5%;
+  background-color: #BC7F63;
+  color: #ffffff;
+}
+.Cydia:hover {
+  background: #ffffff;
+  color: #BC7F63;
+  
+}
+
+.Sileo{
+  margin-top:5%;
+  margin-left:5%;
+  background-color: #29D0C6;
+  color: #ffffff;
+}
+
+.Sileo:hover{
+  background-color: #ffffff;
+  color: #29D0C6;
+}
+  
 </style>
 
-<body>
-
-  <div class="container">
-<h1>Struggling Doge Repo</h1>
-
-<h3> This is a Cydia/Sileo APT repo which contains some of my own themes/tweaks aswell as some other apps.</h3>
-
-<h3> Add to Sileo: <a href="sileo://source/https://thestrugglingdoge.github.io/repo/">Here</a></h3>
-
-</div>
-
-
-
-
-
-<div class="obsolete_cydia"> <!-- This is Using Essentialis' "index.html", they added "obsolete_cydia" bullshit. Not Me (Sukarodo) -->
-
-  <h6> Still using Cydia? Tap <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://thestrugglingdoge.github.io/repo/">here to add to Cydia</a></h6>
-
-</div>
+<body class="PageGradient">
+  <h1 align=center class="MainText">Navan's Repo</h1><center>
+  <button class="Cydia" onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://navanchauhan.github.io/repo/'">Add to Cydia</button><button class="Sileo" onclick="location.href='sileo://source/https://navanchauhan.github.io/repo/'">Add to Sileo</button>
 </body>
 </html>
