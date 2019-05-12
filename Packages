@@ -1,0 +1,49 @@
+Package: com.marcuszhou.NineAnimator
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: StrugglingDoge
+Depends: firmware (>=11.2)
+Filename: ./debs/com.marcuszhou.NineAnimator.deb
+Size: 99002536
+MD5sum: fb6c906d427ac2a77ec23c5b5788384e
+SHA1: f60799af639f7562892c62d446e085b752f28f91
+SHA256: 2e6790f311c8b7d9930220625c3e3aa6260ec2e7a63cc94635a7e6ae02d7b376
+Section: Multimedia
+Description: A simple yet elegant way of watching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
+Author: Marcus Zhou
+Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
+Name: NineAnimator
+
+Package: com.navanchauhan.shittytheme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: prudentWish
+Filename: ./debs/com.navanchauhan.shittyTheme.deb
+Size: 1139036
+MD5sum: c9faedc2db6a7ebf8dcbad7697323b50
+SHA1: 9c6d68ca113b2700282ec6fb3974e69758d448c9
+SHA256: 1757aa779d28f2433bda70e987078b6d8d314b385b41e81841a2f50be18f8e5a
+Section: Themes
+Description: The best worst theme
+Author: prudentWish
+Depiction: https://navanchauhan.github.io/repo/depictions/?p=com.navanchauhan.shittyTheme
+Name: shittyTheme
+Sileodepiction: https://navanchauhan.github.io/repo/sileodepictions/com.navanchauhan.shittyTheme/depiction.json
+
+Package: com.struggling.darkify
+Version: 0.2-2
+Architecture: iphoneos-arm
+Maintainer: StrugglingDoge
+Filename: ./debs/com.struggling.darkify.deb
+Size: 4536920
+MD5sum: e7afb25b6099249cb94182f36bd132bb
+SHA1: 0367b46511be3112133011c9730d311d08ad79e6
+SHA256: edcf94979c64c1dbaa1e56b181afdf26be4083f8aed62b4761b75cc480c46ac7
+Section: Themes
+Description: A nice, simple dark theme for all iOS devices.
+Author: StrugglingDoge
+Depiction: https://thestrugglingdoge.github.io/testrepo/depictions/?p=com.struggling.darkify
+Icon: https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/TweakIcons/darkifyicon.png
+Name: Darkify
+Sileodepiction: https://thestrugglingdoge.github.io/testrepo/sileodepictions/com.struggling.darkify/depiction.json
+
