@@ -1,0 +1,25 @@
+<package>
+	<id>com.navanchauhan.shittyTheme</id>
+	<name>shittyTheme</name>
+	<version>1.0.0</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>The best worst theme!.</shortDescription>
+	<descriptionlist>
+		<description>shittyTheme is based on the most upvoted post on r/iOSThemes</description>
+		<description>I'm always taking icon requests! You can email me at navanchauhan@gmail.com</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Showcase</description>
+			<image>s1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Inital Release!</change>
+	</changelog>
+	<links>
+	</links>
+</package>
