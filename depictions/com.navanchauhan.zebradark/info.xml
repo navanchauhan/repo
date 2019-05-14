@@ -1,0 +1,24 @@
+<package>
+	<id>com.navanchauhan.zebradark</id>
+	<name>Zebra Dark</name>
+	<version>1.0.10</version>
+	<compatibility><miniOS>9.0</miniOS>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Dark mode for Zebra!</shortDescription>
+	<descriptionlist>
+		<description>I'm always open to suggestions! You can email me at navanchauhan@gmail.com</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Showcase</description>
+			<image>s1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Inital Release!</change>
+	</changelog>
+	<links>
+	</links>
+</package>
