@@ -30,6 +30,24 @@ Depiction: https://navanchauhan.github.io/repo/depictions/?p=com.navanchauhan.sh
 Name: shittyTheme
 Sileodepiction: https://navanchauhan.github.io/repo/sileodepictions/com.navanchauhan.shittyTheme/depiction.json
 
+Package: com.navanchauhan.zebradark
+Version: 1.0~beta10-9+debug
+Architecture: iphoneos-arm
+Maintainer: Navan Chauhan <navanchauhan@gmail.com>
+Installed-Size: 6264
+Depends: dpkg
+Filename: ./debs/com.navanchauhan.zebradark.deb
+Size: 2314852
+MD5sum: 58611fda4dd05677b2c3cd744d9b7d28
+SHA1: aa00fda3b177856b419e3d48d991e37455ead72b
+SHA256: c315e7bc9515f0b8d36adc04c7bb715908136af4f8b8ba92b89db3804c475c4f
+Section: Packaging
+Description: A Useful Package Manager
+Tag: purpose::x
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+Name: Zebra (BETA)
+
 Package: com.struggling.darkify
 Version: 0.2-2
 Architecture: iphoneos-arm
