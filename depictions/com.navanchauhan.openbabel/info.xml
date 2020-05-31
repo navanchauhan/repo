@@ -1,15 +1,16 @@
 <package>
 	<id>com.navanchauhan.openbabel</id>
-	<name>Open-Babel</name>
+	<name>Open Babel</name>
 	<version>3.1.0</version>
 	<compatibility>
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>Open-Babel now on ios</shortDescription>
+	<shortDescription>Open Babel now on ios</shortDescription>
 	<descriptionlist>
-		<description>shittyTheme is based on the most upvoted post on r/iOSThemes</description>
-		<description>I'm always taking icon requests! You can email me at navanchauhan@gmail.com</description>
+		<description>Open Babel is a chemical toolbox designed to speak the many languages of chemical data</description>
+		<description>This was compiled without multi-threading support.</description>
+		<description>Want another software compiled for iOS? HMU at navanchauhan@gmail.com.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -18,7 +19,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial Compilation for ios</change>
+		<change>Initial Compilation for iOS</change>
 	</changelog>
 	<links>
 	</links>
