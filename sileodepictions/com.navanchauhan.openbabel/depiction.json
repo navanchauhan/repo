@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Open-Babel now compiled for iOS!",
+                    "markdown": "Open Babel is a chemical toolbox designed to speak the many languages of chemical data!",
                     "useSpacing": true
                 },
                 {
@@ -27,7 +27,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://raw.githubusercontent.com/navanchauhan/repo/master/depictions/com.navanchauhan.shittyTheme/screenshots/s1.png"
+                            "url": "https://raw.githubusercontent.com/navanchauhan/repo/master/depictions/com.navanchauhan.openbabel/screenshots/s1.png"
                         }
                     ]
                 },
@@ -35,7 +35,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "### Love or Hate it?\r\n\r\nSend me feedback :p\r\n\r\n### Icons Missing?\r\n\r\nEmail me at navanchauhan@gmail.com",
+                    "markdown": "### Love or Hate it?\r\n\r\nSend me feedback :p\r\n\r\n### Want something else compiled?\r\n\r\nEmail me at navanchauhan@gmail.com",
                     "useBottomMargin": false
                 },
                 {
@@ -72,7 +72,7 @@
             ]
         }
     ],
-    "headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/shittyTheme.png",
+    "headerImage": "https://raw.githubusercontent.com/navanchauhan/repo/gh-pages/assets/Banners/openbabel.png",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
 }
