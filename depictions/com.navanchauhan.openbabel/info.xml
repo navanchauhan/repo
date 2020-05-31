@@ -1,0 +1,25 @@
+<package>
+	<id>com.navanchauhan.openbabel</id>
+	<name>Open-Babel</name>
+	<version>3.1.0</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Open-Babel now on ios</shortDescription>
+	<descriptionlist>
+		<description>shittyTheme is based on the most upvoted post on r/iOSThemes</description>
+		<description>I'm always taking icon requests! You can email me at navanchauhan@gmail.com</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Showcase</description>
+			<image>s1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Compilation for ios</change>
+	</changelog>
+	<links>
+	</links>
+</package>

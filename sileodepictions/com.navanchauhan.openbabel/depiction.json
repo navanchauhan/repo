@@ -1,0 +1,78 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "Open-Babel",
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Open-Babel now compiled for iOS!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/navanchauhan/repo/master/depictions/com.navanchauhan.shittyTheme/screenshots/s1.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Love or Hate it?\r\n\r\nSend me feedback :p\r\n\r\n### Icons Missing?\r\n\r\nEmail me at navanchauhan@gmail.com",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "3.1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "31-05-2020",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "title": "Developer",
+                    "text": "Navan Chauhan",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/shittyTheme.png",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1"
+}
