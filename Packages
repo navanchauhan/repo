@@ -1,0 +1,47 @@
+Package: com.navanchauhan.openbabel
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: Navan Chauhan <navanchauhan@gmail.com>
+Filename: ./debs/com.navanchauhan.openbabel.deb
+Size: 3371472
+MD5sum: c6fcfc7a9b92f4d4a25b09b4b13c583a
+SHA1: dbece98d5d30a057ea92d4d12352db812bdf1033
+SHA256: ad56cf2e67381b53d4a857b8fce5f65ec56adea1334c54d16e23fc7e69ec1963
+Section: Cheminformatics
+Description: Open-Babel v3.1.0 (with Python3 support)
+Depiction: https://navanchauhan.github.io/repo/depictions/?p=com.navanchauhan.openbabel
+Name: Open-Babel v3.1.0
+Sileodepiction: https://navanchauhan.github.io/repo/sileodepictions/com.navanchauhan.openbabel/depiction.json.json
+
+Package: com.navanchauhan.shittytheme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: prudentWish
+Filename: ./debs/com.navanchauhan.shittyTheme.deb
+Size: 1139036
+MD5sum: c9faedc2db6a7ebf8dcbad7697323b50
+SHA1: 9c6d68ca113b2700282ec6fb3974e69758d448c9
+SHA256: 1757aa779d28f2433bda70e987078b6d8d314b385b41e81841a2f50be18f8e5a
+Section: Themes
+Description: The best worst theme
+Author: prudentWish
+Depiction: https://navanchauhan.github.io/repo/depictions/?p=com.navanchauhan.shittyTheme
+Name: shittyTheme
+Sileodepiction: https://navanchauhan.github.io/repo/sileodepictions/com.navanchauhan.shittyTheme/depiction.json
+
+Package: vina
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Navan Chauhan <navanchauhan@gmail.com>
+Depends: boost (>= 1.68.0-1)
+Filename: ./debs/vina.deb
+Size: 280120
+MD5sum: bed3ecc526b7549ac3b65b4cfef6c96a
+SHA1: dcb99d50224707065101e481666135ca3d1e9bcb
+SHA256: 74a34c53d921773f4ab0cd69ca425531ab6badec7cb81c73dd5c387cd8737e56
+Section: Cheminformatics
+Description: AutoDock Vina : AutoDock Vina is an open-source program for doing molecular docking.
+Depiction: https://navanchauhan.github.io/repo/depictions/?p=vina
+Name: AutoDock Vina
+Sileodepiction: https://navanchauhan.github.io/repo/sileodepictions/vina/depiction.json.json
+
