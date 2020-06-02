@@ -1,16 +1,16 @@
 <package>
-	<id>com.navanchauhan.openbabel</id>
-	<name>Open Babel</name>
-	<version>3.1.0</version>
+	<id>vina</id>
+	<name>AutoDock Vina</name>
+	<version>1.1.2</version>
 	<compatibility>
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>Open Babel now on ios</shortDescription>
+	<shortDescription>AutoDock Vina now on iOS</shortDescription>
 	<descriptionlist>
-		<description>Open Babel is a chemical toolbox designed to speak the many languages of chemical data</description>
-		<description>This was compiled without multi-threading support.</description>
-		<description>Want another software compiled for iOS? HMU at navanchauhan@gmail.com.</description>
+		<description>AutoDock Vina is an open-source program for doing molecular docking.</description>
+		<description>It was designed and implemented by Dr. Oleg Trott in the Molecular Graphics Lab at The Scripps Research Institute.</description>
+		<description>The source code was slightly tweaked to support Boost 1.68, but no core logic was touched.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
