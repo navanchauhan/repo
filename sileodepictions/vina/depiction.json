@@ -6,14 +6,14 @@
             "tabname": "Details",
             "views": [
                 {
-                    "title": "Open-Babel",
+                    "title": "AutoDock Vina",
                     "useBoldText": true,
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Open Babel is a chemical toolbox designed to speak the many languages of chemical data!",
+                    "markdown": "AutoDock Vina is an open-source program for doing molecular docking. It was designed and implemented by Dr. Oleg Trott in the Molecular Graphics Lab at The Scripps Research Institute.",
                     "useSpacing": true
                 },
                 {
@@ -27,7 +27,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://raw.githubusercontent.com/navanchauhan/repo/master/depictions/com.navanchauhan.openbabel/screenshots/s1.png"
+                            "url": "https://raw.githubusercontent.com/navanchauhan/repo/master/depictions/vina/screenshots/s1.png"
                         }
                     ]
                 },
@@ -72,7 +72,7 @@
             ]
         }
     ],
-    "headerImage": "https://raw.githubusercontent.com/navanchauhan/repo/gh-pages/assets/Banners/openbabel.png",
+    "headerImage": "https://raw.githubusercontent.com/navanchauhan/repo/gh-pages/assets/Banners/vina.png",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
 }
